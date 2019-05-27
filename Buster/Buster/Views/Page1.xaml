@@ -39,7 +39,7 @@
                     HorizontalTextAlignment="Center"
                     FontAttributes="Bold"
                     FontSize="Large"
-                    Text="May-26-2019 8:00 PM"
+                    Text="May-26-2019 8:07 PM"
                     TextColor="MidnightBlue"
                 />
                 <Label
