@@ -20,14 +20,14 @@ namespace Buster.Views
             // Here you can define title for item, 
             // icon on the left side, and page that you want to open after selection
 
-            var page1 = new MasterPageItem() { Title = "Home", Icon = "buster.png", TargetType = typeof(Page1) };
+            var page1 = new MasterPageItem() { Title = "Home", Icon = "logo.png", TargetType = typeof(Page1) };
             var page2 = new MasterPageItem() { Title = "Total Open Incidents", Icon = "itemIcon2.png", TargetType = typeof(Page2) };
             var page3 = new MasterPageItem() { Title = "Operations", Icon = "itemIcon3.png", TargetType = typeof(Page3) };
             var page4 = new MasterPageItem() { Title = "SPDR Heat Map", Icon = "itemIcon4.png", TargetType = typeof(Page4) };
             var page5 = new MasterPageItem() { Title = "Email Statistics", Icon = "itemIcon5.png", TargetType = typeof(Page5) };
             var page6 = new MasterPageItem() { Title = "Current Foreign Travel", Icon = "itemIcon6.png", TargetType = typeof(Page6) };
             var page7 = new MasterPageItem() { Title = "Azure Data", Icon = "itemIcon7.png", TargetType = typeof(Page7) };
-            var aboutPage = new MasterPageItem() { Title = "About DTG", Icon = "buster.png", TargetType = typeof(AboutPage) };
+            var aboutPage = new MasterPageItem() { Title = "About DTG", Icon = "logo.png", TargetType = typeof(AboutPage) };
 
 
             // Adding menu items to menuList. (!menu, menu!)

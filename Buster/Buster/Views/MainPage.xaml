@@ -17,7 +17,6 @@
                      HeightRequest="0">
                 </StackLayout>
 
-                <!--qq-->
                 <ListView x:Name="navigationDrawerList"
                     RowHeight="65"
                     SeparatorVisibility="Default"
